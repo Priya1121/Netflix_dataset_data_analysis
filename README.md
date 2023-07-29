@@ -1,6 +1,6 @@
 # Netflix_dataset_data_analysis
 Purpose :  
-To clean,explore and analyse the dataset to find out the stored information in the dataset.
+To clean,explore and analyze the dataset to find out the stored information in the dataset.
 
 About the data:
 The name of the dataset is Netflix Dataset ,it contains the details of shows released on the Netflix .It has the information like Category,Cast,Director,Release date,type,description,duration and rating of the show.
