@@ -5,7 +5,8 @@ To clean,explore and analyse the dataset to find out the stored information in t
 About the data:
 The name of the dataset is Netflix Dataset ,it contains the details of shows released on the Netflix .It has the information like Category,Cast,Director,Release date,type,description,duration and rating of the show.
 
-In this project we have answered the questions like :\n
+In this project we have answered the questions like :
+
 How many unique values present in the country column?        
 Find the total no. of shows launched by each country?
 How many movies and TV shows are present in the dat
